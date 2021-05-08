@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Blog-kalifun-green)
 
 ### 😔️ 我是一块🧱，哪里需要往哪搬 😭️
 
@@ -14,4 +15,3 @@
 ****
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kalifun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalifun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
