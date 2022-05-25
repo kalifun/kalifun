@@ -11,7 +11,3 @@
 - 📚️ 推荐书籍《大教堂与集市》
 - 😄 好好学习 天天向上
 - 🔋️  ...........  
-
-****
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kalifun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-***
